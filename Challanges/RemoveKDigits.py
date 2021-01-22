@@ -19,3 +19,5 @@ class Solution:
         return ans if ans else '0'
 
     print(removeKdigits('self', num = "1432219", k = 3))
+
+
