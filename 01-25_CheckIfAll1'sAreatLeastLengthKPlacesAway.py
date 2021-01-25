@@ -10,5 +10,15 @@ class Solution:
                 pos = 0
             else:
                 pos += 1
+        return True
+
+
+
+
+
+
+
+
+
 
     print(kLengthApart(nums = [1,0,0,0,1,0,0,1], k = 2))

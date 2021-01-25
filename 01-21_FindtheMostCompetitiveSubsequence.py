@@ -16,5 +16,4 @@ class Solution:
 
 
 
-
     print(mostCompetitive(nums = [3,5,2,6], k = 2))

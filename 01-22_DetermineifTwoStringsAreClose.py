@@ -1,3 +1,5 @@
+from collections import Counter
+
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
         c1 = Counter(word1)
